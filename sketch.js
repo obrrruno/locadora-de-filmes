@@ -1,4 +1,3 @@
-
 let campoIdade;
 let campoFantasia;
 let campoAventura;
@@ -52,4 +51,3 @@ function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
     }
   }
 }
-    
